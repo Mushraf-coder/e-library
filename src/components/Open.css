@@ -1,0 +1,25 @@
+.page-main{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 100px;
+}
+.image-logo{
+    width: 50%;
+    height: 30%;
+}
+.get-started{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(105, 103, 100);
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+.get-started:hover{
+    background-color: blue;
+}

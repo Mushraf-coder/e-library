@@ -1,0 +1,22 @@
+.footer-main {
+    height: 200px;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: rgb(107, 94, 94);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title-footer {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+.contact {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+
+}
