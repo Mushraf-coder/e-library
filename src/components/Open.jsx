@@ -9,7 +9,7 @@ function Open() {
         <img className="image-logo" src={logo} alt="" />
         <Link to={"/library"}>
           <button className="get-started">Get Started</button>
-        </Link>
+           </Link>
       </div>
     </div>
   );
